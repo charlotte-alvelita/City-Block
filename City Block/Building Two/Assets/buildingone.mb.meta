@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 87887550dba7a4ed294ce3411c8a1605
+timeCreated: 1444141901
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: curveCleanWaterDrip
+    100004: curveCrystals
+    100006: curveInkSplash
+    100008: curveSurfaceBubbles
+    100010: curveSurfaceBubbles1
+    100012: curveSurfaceBubbles10
+    100014: curveSurfaceBubbles11
+    100016: curveSurfaceBubbles2
+    100018: curveSurfaceBubbles3
+    100020: curveSurfaceBubbles4
+    100022: curveSurfaceBubbles5
+    100024: curveSurfaceBubbles6
+    100026: curveSurfaceBubbles7
+    100028: curveSurfaceBubbles8
+    100030: curveSurfaceBubbles9
+    100032: curveTreeSimple
+    100034: curveTreeSimple1
+    100036: curveVineGreyBud
+    100038: defaultLight
+    100040: pCube1
+    100042: strokeCleanWaterDrip1
+    100044: strokeCrystals1
+    100046: strokeInkSplash1
+    100048: strokeSurfaceBubbles1
+    100050: strokeSurfaceBubbles10
+    100052: strokeSurfaceBubbles11
+    100054: strokeSurfaceBubbles12
+    100056: strokeSurfaceBubbles2
+    100058: strokeSurfaceBubbles3
+    100060: strokeSurfaceBubbles4
+    100062: strokeSurfaceBubbles5
+    100064: strokeSurfaceBubbles6
+    100066: strokeSurfaceBubbles7
+    100068: strokeSurfaceBubbles8
+    100070: strokeSurfaceBubbles9
+    100072: strokeTreeSimple1
+    100074: strokeTreeSimple2
+    100076: strokeVineGreyBud1
+    400000: //RootNode
+    400002: curveCleanWaterDrip
+    400004: curveCrystals
+    400006: curveInkSplash
+    400008: curveSurfaceBubbles
+    400010: curveSurfaceBubbles1
+    400012: curveSurfaceBubbles10
+    400014: curveSurfaceBubbles11
+    400016: curveSurfaceBubbles2
+    400018: curveSurfaceBubbles3
+    400020: curveSurfaceBubbles4
+    400022: curveSurfaceBubbles5
+    400024: curveSurfaceBubbles6
+    400026: curveSurfaceBubbles7
+    400028: curveSurfaceBubbles8
+    400030: curveSurfaceBubbles9
+    400032: curveTreeSimple
+    400034: curveTreeSimple1
+    400036: curveVineGreyBud
+    400038: defaultLight
+    400040: pCube1
+    400042: strokeCleanWaterDrip1
+    400044: strokeCrystals1
+    400046: strokeInkSplash1
+    400048: strokeSurfaceBubbles1
+    400050: strokeSurfaceBubbles10
+    400052: strokeSurfaceBubbles11
+    400054: strokeSurfaceBubbles12
+    400056: strokeSurfaceBubbles2
+    400058: strokeSurfaceBubbles3
+    400060: strokeSurfaceBubbles4
+    400062: strokeSurfaceBubbles5
+    400064: strokeSurfaceBubbles6
+    400066: strokeSurfaceBubbles7
+    400068: strokeSurfaceBubbles8
+    400070: strokeSurfaceBubbles9
+    400072: strokeTreeSimple1
+    400074: strokeTreeSimple2
+    400076: strokeVineGreyBud1
+    2300000: pCube1
+    3300000: pCube1
+    4300000: pCube1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
